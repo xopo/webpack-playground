@@ -1,0 +1,12 @@
+.row {
+    display: flex;
+}
+.input-group {
+    display: flex;
+}
+.alert-danger {
+    color: red;
+}
+body {
+    background: purple;
+}
