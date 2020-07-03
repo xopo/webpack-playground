@@ -1,1 +1,1 @@
-alert('heelo webpack');
+console.log('heelo webpack');
